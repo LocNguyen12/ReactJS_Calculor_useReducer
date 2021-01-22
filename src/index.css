@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.calculor {
+  background: #565656;
+  width: 20rem;
+  height: 31rem;
+  margin: auto auto;
+  padding: 1rem;
+  border-radius: 1rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.btn {
+  width: 4.5rem;
+  height: 4.5rem;
+  margin: 0.2rem;
+  font-size: 2rem;
+  border-radius: 1rem;
+}
+
+.display {
+  background: #dbfff1;
+  width: 19.2rem;
+  margin: 0.5rem;
+  font-size: 2rem;
+}
+
+.btn_action 
+{
+  background: rgb(212, 102, 39);
+}
+
+.btn_cham {
+  width: 9.4rem;
+}
+
+.btn_kq {
+  height: 9.4rem;
+}
